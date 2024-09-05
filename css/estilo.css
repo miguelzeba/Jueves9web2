@@ -1,0 +1,123 @@
+
+.antena{
+    background-color: midnightblue;
+    width: 10px; height: 50px;
+    position: absolute;
+    left: 590px;
+    top: 60px;
+}
+.cabeza{
+    background-color: dimgray;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+.ojo1{
+    background-color: goldenrod;
+    width: 30px; height: 30px;
+    position: absolute;
+    top: 80px; left: 50px;
+}
+.ojo2{
+    background-color: goldenrod;
+    width: 30px; height: 30px;
+    position: absolute;
+    top: 80px; right: 50px;
+}
+.nariz{
+    background-color: goldenrod;
+    width: 30px; height: 30px;
+    position: absolute;
+    top: 120px; left: 85px;
+    border-radius: 30px;
+}
+.boca{
+    background-color: goldenrod;
+    width: 80px; height: 20px;
+    position: absolute;
+    top: 155px; left: 60px;
+}
+.labio{
+    background-color: black;
+    width: 70px; height: 8px;
+    position: absolute;
+    top: 7px; left: 5px;
+}
+.oreja1{
+    background-color:rgba(255, 208, 0, 0.945);
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 480px;
+    top: 180px;
+    border-radius: 30px;
+
+}
+.oreja2{
+    background-color:rgba(255, 208, 0, 0.945);
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 690px;
+    top: 180px;
+    border-radius: 30px;
+
+}
+.cuello{
+    background-color: rgba(255, 208, 0, 0.945);
+    width: 40px; height: 60px;
+    position: relative;
+    left: 575px;
+    top: 100px;
+}
+.brazo1{
+    background-color: brown;
+    width: 150px; height: 21px;
+    position: absolute;
+    left: 390px;
+    top: 430px;
+    transform: rotate(50deg);
+}
+.brazo2{
+    background-color: brown;
+    width: 150px; height: 21px;
+    position: absolute;
+    left: 670px;
+    top: 430px;
+   transform: rotate(-30deg);
+}
+.cuerpo{
+    background-color: dimgray;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.cintura{
+    background-color: rgba(255, 208, 0, 0.945);
+    width: 100px; height: 20px;
+    position: relative;
+    left: 550px;
+    top: 100px;
+}
+.piernas{
+    background-color: dimgray;
+    width: 300px; height: 200px;
+    position: relative;
+    left: 450px;
+    top: 100px;
+}
+.caja1{
+    background-color: rgba(255, 230, 0, 0);
+    width: 180px; height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 30px;
+}
+.caja2{
+    background-color: rgba(255, 230, 0, 0);
+    width: 180px; height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 60px;
+}
